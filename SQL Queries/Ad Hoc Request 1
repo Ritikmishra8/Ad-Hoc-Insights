@@ -1,0 +1,8 @@
+Q1: Provide list of markets in which customer “Atliq Exclusive” operates its business in
+ the APAC region.
+ 
+ Select
+    Distinct Market 
+From dim_customer
+    where customer = "Atliq Exclusive" 
+And region = "APAC"
