@@ -7,15 +7,15 @@ AtliQ Hardwares is a prominent Indian computer hardware brand with a global foot
 
 # Table of contents:
 
-[Problem Statment](#Probelm_statement)
-[Objectives](#objectives)
-[Tools used](#Tools_Used)
-[DataSet](#Dataset)
-[Data Model](#Data_Model)
-[Ad Hoc Request](#Ad_Hoc_Request)
-[SQL Queries](#SQL_Queries)
-[Query Output & Insights](#Query_Output_&_Insights)
-[Recommendations](#Recommendations)
+- [Problem Statment](#Probelm_statement)
+- [Objectives](#objectives)
+- [Tools used](#Tools_Used)
+- [DataSet](#Dataset)
+- [Data Model](#Data_Model)
+- [Ad Hoc Request](#Ad_Hoc_Request)
+- [SQL Queries](#SQL_Queries)
+- [Query Output & Insights](#Query_Output_&_Insights)
+- [Recommendations](#Recommendations)
 
 # Problem Statement
  
