@@ -114,7 +114,7 @@ Insights- Product Category Distribution
 
 4. Which segment had the most increase in unique products in 2021 vs 2020?
    
-![Ad Hoc Request 4](Ad%20Hoc%20Request%204.png)
+![](Ad%20Hoc%20Request%204.png)
 
 Insights- Product Expansion Insights
 
