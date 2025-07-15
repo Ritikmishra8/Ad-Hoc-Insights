@@ -93,7 +93,7 @@ Insights-   Market Presence (APAC Region)
 
 2. What is the percentage of unique product increase in 2021 vs. 2020?
    
-![Ad Hoc Request 2](Ad%20Hoc%20Request%202.png)
+![](Query%20Output%20Visualizations/Ad%20Hoc%20Request%202.png)
 
 Insights- New Product Launches
 - Between FY 2020 and 2021, 89 new products were launched.
@@ -102,7 +102,7 @@ Insights- New Product Launches
 
 3. Provide a report with all the unique product counts for each segment.
 
-![Ad Hoc Request 3](Ad%20Hoc%20Request%203.png)
+![](Query%20Output%20Visualizations/Ad%20Hoc%20Request%203.png)
 
 Insights- Product Category Distribution
 
@@ -114,7 +114,7 @@ Insights- Product Category Distribution
 
 4. Which segment had the most increase in unique products in 2021 vs 2020?
    
-![](Ad%20Hoc%20Request%204.png)
+![](Query%20Output%20Visualizations/Ad%20Hoc%20Request%204.png)
 
 Insights- Product Expansion Insights
 
@@ -124,11 +124,11 @@ Insights- Product Expansion Insights
 
 - Desktop products saw a significant rise, with 15 new additions, reflecting a 214% increase compared to the previous year.
 
-6. Get the products that have the highest and lowest manufacturing cost
+5. Get the products that have the highest and lowest manufacturing cost
    
-![Ad Hoc Request 5A](Ad%20Hoc%20Request%205%20A.png)
+![](Query%20Output%20Visualizations/Ad%20Hoc%20Request%205%20A.png)
 
-![Ad Hoc Request 5B](Ad%20Hoc%20Request%205%20B.png)
+![](Query%20Output%20Visualizations/Ad%20Hoc%20Request%205%20B.png)
 
  Insights – Product Cost Extremes
  
@@ -140,7 +140,7 @@ Mouse AQ Master Wired x1 Ms (Standard 1 variant)
 
 6. Generate a report which contains the top 5 customers who received an average high Pre Invoice Discount % for the fiscal year 2021 and in the Indian market.
    
-![Ad Hoc Request 6](Ad%20Hoc%20Request%206.png)
+![](Query%20Output%20Visualizations/Ad%20Hoc%20Request%206.png)
 
 Insights- Cost Extremes in Products
 
@@ -150,7 +150,7 @@ Insights- Cost Extremes in Products
 
 7. Get the complete report of the Gross sales amount for the customer Atliq Exclusive for each month.
    
-![Ad Hoc Request 7](Ad%20Hoc%20Request%207.png)
+![](Query%20Output%20Visualizations/Ad%20Hoc%20Request%207.png)
 
 Insights- Monthly Sales Trends (FY 2020–2021)
 
@@ -166,7 +166,7 @@ Insights- Monthly Sales Trends (FY 2020–2021)
 
 8. In which quarter of 2020, got the maximum total sold quantity?
    
-![Ad Hoc Request 8](Ad%20Hoc%20Request%208.png)
+![](Query%20Output%20Visualizations/Ad%20Hoc%20Request%208.png)
 
 Insights- Quarterly Sales Performance (FY 2020)
 
@@ -180,7 +180,7 @@ Insights- Quarterly Sales Performance (FY 2020)
 
 9. Which channel helped to bring more gross sales in the fiscal year 2021 and the percentage of contribution?
     
-![Ad Hoc Request 9](Ad%20Hoc%20Request%209.png)
+![](Query%20Output%20Visualizations/Ad%20Hoc%20Request%209.png)
 
 Insights- Channel Performance
 
@@ -197,7 +197,7 @@ Insights- Channel Performance
 
 10. Get the Top 3 products in each division that have a high total sold quantity in the fiscal year 2021?
 
-![Ad Hoc Request 10](Ad%20Hoc%20Request%2010.png)
+![](Query%20Output%20Visualizations/Ad%20Hoc%20Request%2010.png)
 
 Insights- Top Products by Division
 - P&A Division: Top 3 products are mouse variants – high demand.
@@ -210,18 +210,18 @@ Insights- Top Products by Division
 
 # Recommendations for Atliq Hardware
 
-1.Localize Sales and Marketing Strategies
+- Localize Sales and Marketing Strategies
 Tailoring sales and marketing efforts to each country’s specific needs will help AtliQ better align with local customer preferences, strengthen brand presence, and compete more effectively with top industry players.
 
-2.Continuously Refresh Product Offerings
+- Continuously Refresh Product Offerings
 Regular updates based on customer demand and market trends will ensure AtliQ remains innovative and relevant in a fast-changing hardware landscape.
 
-3.Expand in Underserved Segments
+- Expand in Underserved Segments
 Increasing focus on the Networking, Storage, and Desktop categories will help tap into underpenetrated markets and meet the growing needs of niche customer segments.
 
-4.Optimize Costs and Incentivize Loyalty
+- Optimize Costs and Incentivize Loyalty
 Reducing manufacturing costs and introducing volume-based discounts or long-term contract pricing can improve margins while boosting customer retention and satisfaction.
 
-5.Leverage Seasonal Trends and Strengthen Distributor Networks
+- Leverage Seasonal Trends and Strengthen Distributor Networks
 Analyzing seasonal sales patterns and improving distributor relationships through CRM tools and profit-sharing models will help maintain stable, long-term growth across regions.
 
