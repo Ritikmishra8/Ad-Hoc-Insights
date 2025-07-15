@@ -17,6 +17,9 @@ AtliQ Hardwares is a prominent Indian computer hardware brand with a global foot
 - [Query Output & Insights](#Query_Output_&_Insights)
 - [Recommendations](#Recommendations)
 
+# Project Presentation
+[](Presentation-Hoc-Insights.pdf)
+
 # Problem Statement
  
 ● The AtliQ management team currently lacks the ability to quickly make data-driven decisions due to insufficient insights from available data.
