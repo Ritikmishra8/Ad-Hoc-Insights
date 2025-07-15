@@ -67,9 +67,9 @@ fact_sales_monthly : Monthly sales information by product.
 
 # Data Model
 
-[📄 View Ad-Hoc Insights Presentation](Presentation-Ad-Hoc-Insights.pdf)
+![](Data-Model.png)
 
 
 # Ad Hoc Requests
 
-Check Out Here (./ad-hoc-requests.pdf)
+
