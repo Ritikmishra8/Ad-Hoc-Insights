@@ -72,5 +72,5 @@ fact_sales_monthly : Monthly sales information by product.
 
 # Ad Hoc Requests
 
-[Check Out Here]([ad-hoc-requests.pdf](https://github.com/Ritikmishra8/Ad-Hoc-Insights/blob/main/ad-hoc-requests.pdf))
+Check Out Here []([ad-hoc-requests.pdf](https://github.com/Ritikmishra8/Ad-Hoc-Insights/blob/main/ad-hoc-requests.pdf))
 
