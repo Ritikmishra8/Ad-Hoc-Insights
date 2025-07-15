@@ -82,7 +82,7 @@ Check Out Here [SQL Queries](https://github.com/Ritikmishra8/Ad-Hoc-Insights/tre
 
 1. Provide the list of markets in which customer Atliq Exclusive operates its business in the APAC region.
 
-![](query%20output%20visualization/Ad%20Hoc%20Request%201.png)
+![](Query%20Output%20Visualizations/Ad%20Hoc%20Request%201.png)
 
 Insights-   Market Presence (APAC Region)
 - AtliQ Exclusive operates in 8 countries within the APAC region.
