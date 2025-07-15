@@ -2,7 +2,7 @@
 
 SQL Project
 
-📊 # Project Overview
+# Project Overview
 AtliQ Hardwares is a prominent Indian computer hardware brand with a global footprint. Known for its innovation and product quality, AtliQ offers a wide range of devices, including personal computers, keyboards, mice, and printers. As the company grows internationally, it continues to bring advanced technology into homes and businesses worldwide.
 
 # Table of contents:
