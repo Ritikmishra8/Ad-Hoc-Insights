@@ -18,7 +18,8 @@ AtliQ Hardwares is a prominent Indian computer hardware brand with a global foot
 - [Recommendations](#Recommendations)
 
 # Project Presentation
-[](Presentation-Hoc-Insights.pdf)
+
+Check Out Here - [Project Presentation](https://github.com/Ritikmishra8/Ad-Hoc-Insights/blob/main/Presentation-Ad-Hoc-Insights.pdf)
 
 # Problem Statement
  
